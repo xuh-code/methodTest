@@ -101,9 +101,6 @@ public class ImageCompressUtil {
      * @param scale 压缩限制(宽/高)比例  一般用1：
      * 当scale>=1,缩略图height=comBase,width按原图宽高比例;若scale<1,缩略图width=comBase,height按原图宽高比例
      * @throws Exception
-     * @author shenbin
-     * @createTime 2014-12-16
-     * @lastModifyTime 2014-12-16
      */
     public static void saveMinPhoto(String srcURL, String deskURL, double comBase,
                                     double scale) throws Exception {
