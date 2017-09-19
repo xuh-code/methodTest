@@ -10,6 +10,7 @@ import java.awt.image.BufferedImage;
 import java.io.*;
 
 /**
+ * 现在1是
  * 图片的等比压缩 , 与直接指定压缩后的宽高
  *
  * Created by xuh on 2017/9/19.
