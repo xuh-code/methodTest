@@ -19,7 +19,6 @@ public class ImageCompressUtil {
     /**
      * 直接指定压缩后的宽高：
      * (先保存原文件，再压缩、上传)
-     * 壹拍项目中用于二维码压缩
      * @param oldFile 要进行压缩的文件全路径
      * @param width 压缩后的宽度
      * @param height 压缩后的高度
