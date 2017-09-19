@@ -360,6 +360,7 @@ public class SigarInfoUtils {
     public static void main(String[] args) {
         System.out.println( SigarInfoUtils.getDiskTotal("C:\\"));
         System.out.println(SigarInfoUtils.getDiskSurplus("C:\\"));
+        System.out.println("");
     }
 
 }
