@@ -13,6 +13,8 @@ import java.util.*;
 /**
  * 读取Excel文件
  *
+ * 适用于97-2003工作表格 和 2007工作表格
+ *
  * Created by xuh on 2017/9/20.
  */
 public class ReadExcelUtil {
