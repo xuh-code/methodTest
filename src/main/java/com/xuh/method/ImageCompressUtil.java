@@ -17,6 +17,8 @@ import java.io.*;
  */
 public class ImageCompressUtil {
 
+
+
     /**
      * 直接指定压缩后的宽高：
      * (先保存原文件，再压缩、上传)
