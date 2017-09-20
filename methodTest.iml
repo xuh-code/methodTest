@@ -36,5 +36,7 @@
     <orderEntry type="library" name="Maven: javax.servlet.jsp:jsp-api:2.2.1-b03" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.hyperic:sigar:1.6.2" level="project" />
+    <orderEntry type="library" name="poi-3.9-20121203" level="project" />
+    <orderEntry type="library" name="dom4j-1.6.1" level="project" />
   </component>
 </module>
